@@ -1,0 +1,4 @@
+{
+    "testRepo": "bootstrap-responsive-nav-bar-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
